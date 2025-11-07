@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi👋
+### 📊 GitHub Stats 🦕
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=natalia0sperczynska&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natalia0sperczynska&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
 <!--
 **natalia0sperczynska/natalia0sperczynska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
